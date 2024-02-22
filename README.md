@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with different frameworks for Security compliance 
 - 💬 Ask me about Audit and GRC. 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Sarcasm and Thug-life
+- ⚡ Fun fact: Sarcastic reply and Ultimate Thug-life
