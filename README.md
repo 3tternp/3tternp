@@ -1,6 +1,6 @@
 - <h1 align="center">Hi 👋, I'm Astra (Prem Basnet)</h1>
 <h3 align="center">A passionate IS Auditor and GRC Analyst from Nepal</h3>
-
+<h3 align="center">L0V3 2 @u+0m@+3</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3tternp&label=Profile%20views&color=0e75b6&style=flat" alt="3tternp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3tternp" alt="3tternp" /></a> </p>
