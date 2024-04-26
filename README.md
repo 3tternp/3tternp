@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **basnetprem524@gmail.com**
 
-- ⚡ Fun fact **Sarcastic reply and Ultimate Thug-life**
+- ⚡ Fun fact **Sarcasm and Ultimate Thug-life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
