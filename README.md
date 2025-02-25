@@ -2,8 +2,8 @@
 <h3 align="center">A passionate IS Auditor and GRC Analyst from Nepal</h3>
 <h3 align="center">L0V3 2 @u+0m@+3</h3>
 <img src="https://tryhackme-badges.s3.amazonaws.com/astra524.png" alt="Your Image Badge" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3tternp&label=Profile%20views&color=0e75b6&style=flat" alt="3tternp" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3tternp&label=Profile%20views&color=0e75b6&style=flat" alt="3tternp" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=3tternp" alt="3tternp" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/astra524" target="blank"><img src="https://img.shields.io/twitter/follow/astra524?logo=twitter&style=for-the-badge" alt="astra524" /></a> </p>
