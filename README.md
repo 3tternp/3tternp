@@ -3,7 +3,7 @@
 <h3 align="center">L0V3 2 @u+0m@+3</h3>
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=110887" style='border:none;'></iframe>
+  <image src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=110887" style='border:none;'></image>
 </p>
 
 <p align="center">
