@@ -2,8 +2,8 @@
 <h3 align="center">A passionate IS Auditor and GRC Analyst from Nepal</h3>
 <h3 align="center">L0V3 2 @u+0m@+3</h3>
 
-<p align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=110887" style='border:none;'></img>
+<p align="left">
+  <img <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=110887" style='border:none;'></iframe> style='border:none;'></img>
 </p>
 
 <p align="center">
