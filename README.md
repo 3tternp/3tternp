@@ -3,7 +3,7 @@
 <h3 align="center">L0V3 2 @u+0m@+3</h3>
 
 <p align="left">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=110887" style='border:none;' style='border:none;'></img>
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=110887" style='border:none;'></img>
 </p>
 
 <p align="center">
