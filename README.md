@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IS Auditor and GRC Analyst from Nepal</h3>
 <h3 align="center">L0V3 2 @u+0m@+3</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/astra524.png" alt="Your Image Badge" />
 </p>
 
