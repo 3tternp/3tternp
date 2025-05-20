@@ -3,7 +3,7 @@
 <h3 align="center">L0V3 2 @u+0m@+3</h3>
 
 <p align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/astra50.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/astra50.png" alt="Your Image Badge" />
 </p>
 
 <p align="center">
