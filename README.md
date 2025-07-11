@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Astra (Prem Basnet)</h1>
-<h3 align="center">A passionate IS Auditor and GRC Analyst from Nepal</h3>
+<h3 align="center">A passionate Cyber Security Proffessional from Nepal</h3>
 <h3 align="center">L0V3 2 @u+0m@+3</h3>
 
 <p align="center">
