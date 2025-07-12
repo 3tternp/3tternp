@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Astra (Prem Basnet)</h1>
-<h3 align="center">A passionate Cyber Security Proffessional from Nepal</h3>
-<h3 align="center">L0V3 2 @u+0m@+3</h3>
+<h3 align="center">A Passionate Cyber Security Proffessional from Nepal</h3>
+<h3 align="center">L0V3 2 AU+0M@+3</h3>
 
 <p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/astra50.png" alt="Your Image Badge" />
