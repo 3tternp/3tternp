@@ -80,7 +80,7 @@ FUN_FACT    : Sarcasm is my primary attack vector 😎
 [![Twitter](https://img.shields.io/badge/@astra524-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/astra524)
 [![LinkedIn](https://img.shields.io/badge/prem--basnet-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prem-basnet-50565aab/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOx8z4HZ4MEf-Wkx_f4JP9Q)
-[![Instagram](https://img.shields.io/badge/@astra.x__ke-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/astra.x_ke/)
+[![Instagram](https://img.shields.io/badge/@astra.x__ke-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/astra.x3/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100051820911738)
 [![Email](https://img.shields.io/badge/basnetprem524@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basnetprem524@gmail.com)
 
