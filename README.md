@@ -60,27 +60,41 @@ FUN_FACT    : Sarcasm is my primary attack vector 😎
 
 ## `./stats --verbose`
 
+<!--
+  github-readme-stats.vercel.app, github-profile-trophy.vercel.app, and
+  github-readme-activity-graph.vercel.app are currently DEPLOYMENT_PAUSED
+  (the maintainers' shared free instance hit Vercel's usage limits — this
+  happens periodically to all three). Once you deploy your own instance of
+  each (one-click "Deploy on Vercel" button in their repos), swap the URLs
+  below to your own domain and those cards can come back.
+-->
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=3tternp&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=00ff41" />
-&nbsp;
 <img height="160" src="https://streak-stats.demolab.com/?user=3tternp&theme=github-dark-blue&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=ffffff&sideNums=ffffff&dates=00cc33" />
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=3tternp&theme=matrix&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## `./activity --graph`
+## `./stars --top`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=3tternp&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00cc33&hide_border=true" width="100%" />
+**⭐ 66 stars earned across original public repositories**
+
+| Repository | Stars |
+|---|---|
+| [CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554) | [![Stars](https://img.shields.io/github/stars/3tternp/CVE-2023-21554?style=flat-square&color=00ff41&label=%E2%98%85)](https://github.com/3tternp/CVE-2023-21554/stargazers) |
+| [wine32](https://github.com/3tternp/wine32) | [![Stars](https://img.shields.io/github/stars/3tternp/wine32?style=flat-square&color=00ff41&label=%E2%98%85)](https://github.com/3tternp/wine32/stargazers) |
+| [grub-recovery-tool](https://github.com/3tternp/grub-recovery-tool) | [![Stars](https://img.shields.io/github/stars/3tternp/grub-recovery-tool?style=flat-square&color=00ff41&label=%E2%98%85)](https://github.com/3tternp/grub-recovery-tool/stargazers) |
+| [JavaDowngrade](https://github.com/3tternp/JavaDowngrade) | [![Stars](https://img.shields.io/github/stars/3tternp/JavaDowngrade?style=flat-square&color=00ff41&label=%E2%98%85)](https://github.com/3tternp/JavaDowngrade/stargazers) |
+| [livehost](https://github.com/3tternp/livehost) | [![Stars](https://img.shields.io/github/stars/3tternp/livehost?style=flat-square&color=00ff41&label=%E2%98%85)](https://github.com/3tternp/livehost/stargazers) |
+| [arpspoof](https://github.com/3tternp/arpspoof) | [![Stars](https://img.shields.io/github/stars/3tternp/arpspoof?style=flat-square&color=00ff41&label=%E2%98%85)](https://github.com/3tternp/arpspoof/stargazers) |
+| [macflooding](https://github.com/3tternp/macflooding) | [![Stars](https://img.shields.io/github/stars/3tternp/macflooding?style=flat-square&color=00ff41&label=%E2%98%85)](https://github.com/3tternp/macflooding/stargazers) |
+| [kali-repo](https://github.com/3tternp/kali-repo) | [![Stars](https://img.shields.io/github/stars/3tternp/kali-repo?style=flat-square&color=00ff41&label=%E2%98%85)](https://github.com/3tternp/kali-repo/stargazers) |
+
+*Badges pull live counts from GitHub via shields.io — no dependency on the paused Vercel widgets above.*
 
 </div>
 
