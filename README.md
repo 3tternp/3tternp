@@ -11,10 +11,12 @@
 
 ### `whoami`
 
-**Prem Basnet** · Cybersecurity Professional · Nepal 🇳🇵  
+**Prem Basnet** · Cybersecurity Professional · Nepal 🇳🇵
 *CSOC & SIEM Manager · Penetration Tester · Security Researcher*
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/astra50.png)](https://tryhackme.com/p/astra50)
+
+![Profile Views](https://komarev.com/ghpvc/?username=3tternp&style=flat-square&color=58a6ff&label=Profile+Views)
 
 </div>
 
@@ -61,7 +63,7 @@ FUN_FACT    : Sarcasm is my primary attack vector 😎
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=3tternp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 &nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=3tternp&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+<img height="160" src="https://streak-stats.demolab.com/?user=3tternp&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
