@@ -36,7 +36,7 @@ ROLE        : Manager, SIEM & CSOC @ Vairav Technology Security Pvt. Ltd.
 FOCUS       : Threat Detection · Incident Response · Red/Purple Teaming · ISO 27001 Audits
 CERTIFIED   : ISO 27001:2022 Lead Auditor · ECSA · CRTP · (ISC)² CC
 PASSION     : L0V3 2 AU+0M@+3
-STUDYING    : MSc Cybersecurity | CREST CPSA
+STUDYING    : MSc Cybersecurity
 WEBSITE     : https://basnetprem.com.np
 FUN_FACT    : Sarcasm is my primary attack vector 😎
 ```
